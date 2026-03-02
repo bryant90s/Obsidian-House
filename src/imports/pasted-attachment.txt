@@ -1,0 +1,95 @@
+Design a moody, minimal website for a digital archive project called “DEADLINK.”
+
+DEADLINK documents abandoned websites, deleted pages, and forgotten corners of the early internet.
+
+Tone:
+Quiet. Mysterious. Minimal. Not playful. Not cyberpunk neon.
+
+Visual Direction:
+
+Off-black background (#111–#181818 range)
+
+Soft gray typography
+
+Muted blue or desaturated green accent
+
+Editorial serif for headlines
+
+Clean mono or grotesk for body
+
+Generous negative space
+
+No rounded bubbly UI
+
+Subtle grain texture overlay
+
+Homepage Structure:
+
+Hero:
+Large headline:
+“The Internet Forgets. We Don’t.”
+Small subtext explaining the archive.
+Minimal CTA: “Browse the Archive”
+
+Featured Entries:
+Vertical card layout with:
+
+Website name
+
+Year archived
+
+Short 2–3 line description
+
+“View Snapshot” link
+
+Timeline Section:
+Horizontal scrolling timeline showing key internet eras:
+1998 – Personal homepages
+2004 – Flash microsites
+2010 – Tumblr aesthetics
+2015 – Early crypto landing pages
+
+Archive Categories:
+
+Defunct Startups
+
+Lost Personal Blogs
+
+Early Social Networks
+
+Experimental Web Art
+
+Search Section:
+Minimal search interface with filtering by year and category.
+
+About Section:
+Short manifesto about digital memory.
+
+Footer:
+Simple. Structured. No heavy UI.
+
+Requirements:
+
+Desktop 1440px
+
+Mobile layout with vertical emphasis
+
+Strong typographic hierarchy
+
+Editorial spacing rhythm
+
+No SaaS components
+
+No dashboard elements
+
+Avoid:
+
+Tech startup visuals
+
+Bright gradients
+
+Cartoon illustrations
+
+Overly animated UI
+
+Make it feel like a design-forward digital museum.
